@@ -1,0 +1,12 @@
+escape `` # Change escape to `
+
+startup_message off
+nethack on
+
+hardstatus alwayslastline
+
+hardstatus string '%{= mK}%-Lw%{= KW}%50>%n%f* %t%{= mK}%+Lw%< %{= kG}%-=%D %d %M %Y %c:%s%{-}'
+
+# Takes care of "Aborted because of window size change" and window resizing
+# on screen startup through putty.
+termcapinfo xterm 'is=\E[r\E[m\E[2J\E[H\E[?7h\E[?1;4;6l'

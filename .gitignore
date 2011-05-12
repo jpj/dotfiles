@@ -1,0 +1,9 @@
+# Ignore all but config (.)files
+/*
+!.*
+
+.*.swp
+.bash_history
+.jenkins
+.ssh
+.viminfo
