@@ -26,6 +26,7 @@
 .mozilla
 .mplayer
 .mysql_history
+.naimprofile
 .naimrc
 .naimlog
 .nbi
@@ -34,6 +35,8 @@
 .passwords
 .pinepw
 .pinerc*
+.plan
+.project
 .recently-used.xbel
 .ssh
 .subversion
