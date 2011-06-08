@@ -36,6 +36,8 @@
 .gstreamer-0.10
 .gtk-bookmarks
 .gvfs
+.hg.cvsps
+.hgrc
 .ICEauthority
 .icedteaplugin
 .IdeaIC10
@@ -72,6 +74,7 @@
 .pulse
 .pulse-cookie
 .recently-used.xbel
+.rnd
 .ssh
 .subversion
 .sudo_as_admin_successful
