@@ -7,6 +7,7 @@
 .adanaxis
 .addressbook*
 .adobe
+.android
 .ash_history
 .avidemux
 .bash_history
@@ -73,6 +74,7 @@
 .project
 .pulse
 .pulse-cookie
+.qt
 .recently-used.xbel
 .rnd
 .ssh
