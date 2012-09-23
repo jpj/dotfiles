@@ -15,8 +15,10 @@
 .cache
 .chromium-bsu
 .cola
+.compiz*
 .config
 .dbus
+.dmrc
 .dvdcss
 .eclipse
 .emacs
@@ -34,13 +36,14 @@
 .gksu.lock
 .gnome2
 .gnupg
+.goutputstream*
 .gstreamer-0.10
 .gtk-bookmarks
 .gvfs
 .hg.cvsps
 .hgrc
 .ICEauthority
-.icedteaplugin
+.icedtea*
 .IdeaIC10
 .javafx_eula_accepted
 .jenkins
