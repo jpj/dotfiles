@@ -45,6 +45,7 @@
 .ICEauthority
 .icedtea*
 .IdeaIC10
+.java
 .javafx_eula_accepted
 .jenkins
 .kde
@@ -65,6 +66,7 @@
 .netbeans*
 .netrc
 .netx
+.nv
 .openoffice.org
 .padre
 .passwords
