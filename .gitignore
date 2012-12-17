@@ -97,3 +97,5 @@
 .xine
 .xscreensaver-getimage.cache
 .xsession-errors*
+.histfile
+.zcompdump
