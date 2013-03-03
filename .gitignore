@@ -21,6 +21,7 @@
 .dmrc
 .dvdcss
 .eclipse
+.ecryptfs
 .emacs
 .esd_auth
 .evolution
@@ -44,6 +45,7 @@
 .hgrc
 .ICEauthority
 .icedtea*
+.icons/
 .IdeaIC10
 .java
 .javafx_eula_accepted
@@ -75,6 +77,7 @@
 .pki
 .plan
 .prboom
+.Private
 .profile
 .project
 .pulse
@@ -82,10 +85,12 @@
 .qt
 .recently-used.xbel
 .rnd
+.signon/
 .ssh
 .subversion
 .sudo_as_admin_successful
 .thumbnails
+.thunderbird/
 .trackballs
 .trigger
 .tsclient
