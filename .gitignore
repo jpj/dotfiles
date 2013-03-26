@@ -47,6 +47,7 @@
 .icedtea*
 .icons/
 .IdeaIC10
+.install4j
 .java
 .javafx_eula_accepted
 .jenkins
@@ -82,10 +83,12 @@
 .project
 .pulse
 .pulse-cookie
+.purple/
 .qt
 .recently-used.xbel
 .rnd
 .signon/
+.Spark/
 .ssh
 .subversion
 .sudo_as_admin_successful
