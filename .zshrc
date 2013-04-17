@@ -16,10 +16,13 @@ setopt COMPLETE_IN_WORD
 #setopt HUP
 
 ## history
-#setopt APPEND_HISTORY
+HISTSIZE=1000
+HISTFILE=~/.history
+SAVEHIST=1000
+setopt APPEND_HISTORY
 ## for sharing history between zsh processes
-#setopt INC_APPEND_HISTORY
-#setopt SHARE_HISTORY
+setopt INC_APPEND_HISTORY
+setopt SHARE_HISTORY
 
 ## never ever beep ever
 #setopt NO_BEEP
@@ -33,7 +36,6 @@ setopt COMPLETE_IN_WORD
 # autoload -U colors
 #colors
 
-#PROMPT='some bs'
-#PROMPT_COMMAND='echo -ne "\033]0;${USER}@${HOSTNAME%%.*}:${PWD/$HOME/~}\007"'
 PS1=$'\033[01;32m%n@%m\033[01;34m %~ \$\033[00m '
-#PROMPT='%{$fg[magenta]%}%n%{$reset_color%} at %{$fg[yellow]%}%m%{$reset_color%}'
+
+#bindkey "^R" history-incremental-search-backward
