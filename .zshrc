@@ -32,3 +32,8 @@ setopt COMPLETE_IN_WORD
 
 # autoload -U colors
 #colors
+
+#PROMPT='some bs'
+#PROMPT_COMMAND='echo -ne "\033]0;${USER}@${HOSTNAME%%.*}:${PWD/$HOME/~}\007"'
+PS1=$'\033[01;32m%n@%m\033[01;34m %~ \$\033[00m '
+#PROMPT='%{$fg[magenta]%}%n%{$reset_color%} at %{$fg[yellow]%}%m%{$reset_color%}'

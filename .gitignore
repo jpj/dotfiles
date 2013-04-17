@@ -4,6 +4,7 @@
 
 .*.swp
 
+.account
 .adanaxis
 .addressbook*
 .adobe
@@ -13,12 +14,15 @@
 .bash_history
 .bashrc
 .cache
+.CFUserTextEncoding
 .chromium-bsu
 .cola
 .compiz*
+.composer
 .config
 .dbus
 .dmrc
+.DS_Store
 .dvdcss
 .eclipse
 .ecryptfs
@@ -43,6 +47,7 @@
 .gvfs
 .hg.cvsps
 .hgrc
+.histfile
 .ICEauthority
 .icedtea*
 .icons/
@@ -51,11 +56,13 @@
 .java
 .javafx_eula_accepted
 .jenkins
+.k5login
 .kde
 .lesshst
 .links
 .local
 .m2
+.MacOSX
 .macromedia
 .maildir
 .mission-control
@@ -70,6 +77,7 @@
 .netrc
 .netx
 .nv
+.oh-my-zsh
 .openoffice.org
 .padre
 .passwords
@@ -94,6 +102,7 @@
 .thumbnails
 .thunderbird/
 .trackballs
+.Trash
 .trigger
 .tsclient
 .update-notifier
@@ -104,5 +113,7 @@
 .xine
 .xscreensaver-getimage.cache
 .xsession-errors*
-.histfile
 .zcompdump
+.zsh-update
+.zsh_history
+.zshrc.oh-my-zsh
