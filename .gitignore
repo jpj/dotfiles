@@ -99,6 +99,9 @@
 .signon/
 .Spark/
 .ssh
+.steam
+.steampath
+.steampid
 .subversion
 .sudo_as_admin_successful
 .thumbnails
