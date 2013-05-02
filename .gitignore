@@ -111,7 +111,7 @@
 .trigger
 .tsclient
 .update-notifier
-.vim
+.vim/attic
 .viminfo
 .vnc
 .Xauthority
