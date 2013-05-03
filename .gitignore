@@ -12,6 +12,7 @@
 .ash_history
 .avidemux
 .bash_history
+.bash_profile
 .bashrc
 .cache
 .CFUserTextEncoding
@@ -87,6 +88,7 @@
 .plan
 .prboom
 .Private
+.profile
 .project
 .pulse
 .pulse-cookie
@@ -109,7 +111,7 @@
 .trigger
 .tsclient
 .update-notifier
-.vim
+.vim/attic
 .viminfo
 .vnc
 .Xauthority
@@ -117,6 +119,7 @@
 .xscreensaver-getimage.cache
 .xsession-errors*
 .zcompdump
+.zprofile
 .zsh-update
 .zsh_history
 .zshrc.oh-my-zsh
