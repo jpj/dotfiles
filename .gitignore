@@ -114,7 +114,7 @@
 .vim/attic
 .viminfo
 .vnc
-.Xauthority
+.Xauthority*
 .xine
 .xscreensaver-getimage.cache
 .xsession-errors*
