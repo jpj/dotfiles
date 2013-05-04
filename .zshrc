@@ -36,7 +36,12 @@ setopt SHARE_HISTORY
 # autoload -U colors
 #colors
 
-PS1=$'\033[01;32m%n@%m\033[01;34m %~ \$\033[00m '
+PS1=$'%{\033[01;32m%}%n@%m%{\033[01;34m%} %~ \$%{\033[00m%} '
 
 #bindkey "^R" history-incremental-search-backward
 alias ls='ls -G '
+alias grep='grep --color=auto '
+
+if [ -e ~/.zprofile ]; then
+	. ~/.zprofile
+fi
