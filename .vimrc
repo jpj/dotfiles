@@ -1,5 +1,6 @@
 set autoindent
 set wmh=0
+syntax on
 
 " Easy-on-the-eyes colorscheme for black-background terminal
 colorscheme elflord
