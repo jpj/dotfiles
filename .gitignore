@@ -21,6 +21,7 @@
 .compiz*
 .composer
 .config
+.dbshell
 .dbus
 .dmrc
 .DS_Store
@@ -112,9 +113,10 @@
 .tsclient
 .update-notifier
 .vim/attic
+.vim/.netrwhist
 .viminfo
 .vnc
-.Xauthority
+.Xauthority*
 .xine
 .xscreensaver-getimage.cache
 .xsession-errors*
