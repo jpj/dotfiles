@@ -1,4 +1,4 @@
-escape `` # Change escape to `
+escape ^Bb
 
 startup_message off
 nethack on
