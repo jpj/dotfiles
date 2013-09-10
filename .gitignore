@@ -24,6 +24,7 @@
 .dbshell
 .dbus
 .dmrc
+._.DS_Store
 .DS_Store
 .dvdcss
 .eclipse
@@ -50,6 +51,7 @@
 .hg.cvsps
 .hgrc
 .histfile
+.history
 .ICEauthority
 .icedtea*
 .icons/
@@ -58,6 +60,7 @@
 .java
 .javafx_eula_accepted
 .jenkins
+.jira/
 .k5login
 .kde
 .lesshst
@@ -97,6 +100,7 @@
 .purple/
 .qt
 .recently-used.xbel
+.review_ticket
 .rnd
 .signon/
 .Spark/
@@ -114,8 +118,10 @@
 .tsclient
 .update-notifier
 .vim/attic
-.vim/.netrwhist
+.vim/autoload/
+.vim/bundle/
 .viminfo
+.vim/.netrwhist
 .vnc
 .Xauthority*
 .xine
@@ -123,7 +129,7 @@
 .xsession-errors*
 .zcompdump
 .zprofile
-.zsh-update
+.zshenv
 .zsh_history
 .zshrc.oh-my-zsh
-.history
+.zsh-update
