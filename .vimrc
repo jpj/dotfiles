@@ -36,4 +36,4 @@ endfunction
 filetype plugin on
 filetype indent on
 
-execute pathogen#infect()
+"execute pathogen#infect()
