@@ -21,6 +21,7 @@
 .compiz*
 .composer
 .config
+.cups
 .dbshell
 .dbus
 .dmrc
