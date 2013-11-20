@@ -41,5 +41,4 @@ PS1=$'%{\033[01;32m%}%n@%m%{\033[01;34m%} %~ \$%{\033[00m%} '
 #bindkey "^R" history-incremental-search-backward
 bindkey -e # Use Emacs bindings
 
-alias ls='ls --color=auto '
 alias grep='grep --color=auto '
