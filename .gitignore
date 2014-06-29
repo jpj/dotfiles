@@ -33,6 +33,7 @@
 .emacs
 .esd_auth
 .evolution
+.fehbg
 .fluxbox
 .fontconfig
 .fullcircle
@@ -64,6 +65,7 @@
 .jira/
 .k5login
 .kde
+.lein/
 .lesshst
 .links
 .local
@@ -83,6 +85,7 @@
 .netrc
 .netx
 .nv
+.nvidia-settings-rc
 .oh-my-zsh
 .openoffice.org
 .padre
@@ -100,6 +103,7 @@
 .pulse-cookie
 .purple/
 .qt
+.racketrc
 .recently-used.xbel
 .review_ticket
 .rnd
@@ -124,8 +128,11 @@
 .viminfo
 .vim/.netrwhist
 .vnc
+.wine/
+.wine-browser/
 .Xauthority*
 .xine
+.xscreensaver
 .xscreensaver-getimage.cache
 .xsession-errors*
 .zcompdump
